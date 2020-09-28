@@ -131,3 +131,5 @@ advance/**/*.png
 advance/**/*.gif
 lfya/**/*.png
 lfya/**/*.gif
+visualization/**/*.png
+visualization/**/*.gif
