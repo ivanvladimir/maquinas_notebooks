@@ -127,9 +127,13 @@ dmypy.json
 #
 basic/**/*.png
 basic/**/*.gif
+basic/**/*.svg
 advance/**/*.png
 advance/**/*.gif
+advance/**/*.svg
 lfya/**/*.png
 lfya/**/*.gif
+lfya/**/*.svg
 visualization/**/*.png
 visualization/**/*.gif
+visualization/**/*.svg
