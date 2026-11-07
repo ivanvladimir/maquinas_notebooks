@@ -4,9 +4,13 @@ version = "0.1.0"
 requires-python = ">=3.12"
 dependencies = [
     "ipywidgets>=8.1.9",
+    "maquinas",
 ]
 
 [dependency-groups]
 dev = [
     "jupyterlab>=4.6.6",
 ]
+
+[tool.uv.sources]
+maquinas = { git = "https://gitlab.com/ivanvladimir/maquinas" }
